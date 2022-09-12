@@ -81,10 +81,14 @@ p {
 /* Testimonials */
 
 #testimonials {
-    padding: 7% 15%;
+    
     background-color: #fc757c;
     color: white;
     text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
 
 h2 {
