@@ -78,3 +78,34 @@ p {
     padding-top: 2.5rem;
 }
 
+/* Testimonials */
+
+#testimonials {
+    padding: 7% 15%;
+    background-color: #fc757c;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 12%;
+    padding: 20px;
+}
+
+#press {
+    background-color: #fc757c;
+    text-align: center;
+    padding-bottom: 1.5%;
+}
+
+.press-logo {
+    width: 16%;
+    margin: 20px 20px 50px;
+}
