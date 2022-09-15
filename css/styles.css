@@ -149,3 +149,35 @@ h2 {
         padding-top: 2rem;
     }
 }
+
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 8rem;
+}
+
+.cta-text {
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: white;
+    font-size: 3rem;
+    padding: 0 0 8px;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    padding: 7% 0 5%;
+}
+
+.footer-link {
+    color: rgb(27, 23, 23);
+    padding: 1rem 12px 2rem;
+}
+
+.license {
+    padding: 1.5rem 2rem;
+}
